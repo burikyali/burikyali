@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there. General Kenobi. 👋
 
 - 🔭 I'm current working on -- being alive i guess
 - 🌱 I’m currently learning -- a lot of things. Luckily it also includes AI.
