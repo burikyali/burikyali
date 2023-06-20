@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burikyali&label=peoplewhostalkme&color=c6180c&style=flat-square" alt="burikyali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burikyali" alt="burikyali" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/burikyali" target="blank"><img src="https://img.shields.io/twitter/follow/burikyali?logo=twitter&style=for-the-badge" alt="burikyali" /></a> </p>
 
 - 🔭 I’m currently working on **myself unfortunately**
