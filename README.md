@@ -3,7 +3,7 @@
 <h1 align="center">നമസ്കാരം 👋, I'm Rakesh</h1>
 <h3 align="center">"Be as you wish to seem." -- Socrates</h3>
 
-<img align="right" alt="BL" width="300" src="https://github.com/burikyali/burikyali/assets/85039149/37b1bb7d-3d0d-4b9e-9386-bd5ace34a4cd">
+<img align="right" alt="BL" width="250" src="https://github.com/burikyali/burikyali/assets/85039149/37b1bb7d-3d0d-4b9e-9386-bd5ace34a4cd">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burikyali&label=peoplewhostalkme&color=c6180c&style=flat-square" alt="burikyali" /> </p>
 
