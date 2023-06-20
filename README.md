@@ -1,4 +1,4 @@
-<img align="center" alt="BL" width="900" src="https://github.com/burikyali/burikyali/assets/85039149/84b8f595-f7c3-4899-85e0-31360777e431">
+<img align="center" alt="BL" width="400" src="https://github.com/burikyali/burikyali/assets/85039149/84b8f595-f7c3-4899-85e0-31360777e431">
 
 <h1 align="center">നമസ്കാരം 👋, I'm Rakesh</h1>
 <h3 align="center">"Be as you wish to seem." -- Socrates</h3>
