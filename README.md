@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **mrrtheniceguy@gmail.com**
 
-- ⚡ Fun fact **i like quotes that are pragmatic. none of that pansy ass minor quotes about barbies and bells.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/burikyali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burikyali" height="30" width="40" /></a>
