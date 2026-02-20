@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **myself unfortunately**
 
-- 🌱 I’m currently learning **C/C++ & React**
+- 🌱 I’m currently learning **nothing**
 
 - 👯 I’m looking to collaborate on **anything and everything**
 
